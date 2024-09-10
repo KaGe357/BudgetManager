@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1725880781 source:p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\budgetmanager.cpp
+
+1725951869 source:p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\main.cpp
+	<iostream>
+	"UserManager.h"
+
+1725883402 source:p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\user.h
+	<iostream>
+
+1725880781 source:p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\budgetmanager.h
+
+1725883387 source:p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\user.cpp
+	"User.h"
+
+1725883402 p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\user.h
+	<iostream>
+
+1303067212 source:p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\markup.cpp
+	<stdio.h>
+	"Markup.h"
+	<errno.h>
+	<iconv.h>
+	<windows.h>
+	<mbstring.h>
+
+1303067212 p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\markup.h
+	<stdlib.h>
+	<string.h>
+	<string>
+	<afx.h>
+
+1725953530 source:p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\userfile.cpp
+	"UserFile.h"
+	<fstream>
+
+1725950215 p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\userfile.h
+	<iostream>
+	<vector>
+	"Markup.h"
+	"User.h"
+
+1725952225 source:p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\usermanager.cpp
+	"UserManager.h"
+
+1725950757 p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\usermanager.h
+	<iostream>
+	<vector>
+	"User.h"
+	"UserFile.h"
+
+1725950757 source:p:\c++_kurs\zadania_gotowe_przyszlyprogramista\homebudget\usermanager.h
+	<iostream>
+	<vector>
+	"User.h"
+	"UserFile.h"
+
